@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ProjektKevin)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## About Me 😎
 - 👀 Name: *Min Thet Khine*, Alias: *Kevin*
 - 🏫 Year 1 student majoring in Information Technology
