@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 ## About Me 😎
 - 👀 Name: *Min Thet Khine*, Alias: *Kevin*
 - 🏫 Year 1 student majoring in Information Technology
-- 🔭 Aiming to become software developer
+- 🔭 Aspiring to become a great software developer
 - 📖 Currently learning how to use **Kaboom.js**
-- 🔧 Currently working on my **portfolio** & pixel art game: **Zelda**
+- 🔧 Currently working on my **portfolio** & pixel art game like: **Zelda**
 - 🐺 Looking to collaborate on creating a **game**
 - 📞 Contact me on discord: **projektkevin**
   
@@ -39,6 +39,7 @@ Here are some ideas to get you started:
   - BOOTSTRAP
   - Advanced Javascript
 - **Back-End-Development** 🙂
+  - MySQL
   - Express.js
 - **Game-Development** 👾
   - Kaboom.js
