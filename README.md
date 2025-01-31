@@ -22,26 +22,20 @@ Here are some ideas to get you started:
 - 🏫 Year 1 student majoring in Information Technology
 - 🔭 Aspiring to become a great software developer
 - 📖 Currently learning how to use **Kaboom.js**
-- 🔧 Currently working on my **portfolio** & pixel art game like: **Zelda**
+- 🔧 Currently working on a project for **IMCS**
 - 🐺 Looking to collaborate on creating a **game**
 - 📞 Contact me on discord: **projektkevin**
-  
-~~*just picked up how to use github not long ago.*~~
 
 ## Skills 💪
-- **Languages** 🗣️
-  - Basic Java
-  - Basic C++
-  - Basic Swift UI
-- **Front-End-Development** 😄
-  - HTML5
-  - CSS
-  - BOOTSTRAP
-  - Advanced Javascript
-- **Back-End-Development** 🙂
-  - MySQL
-  - Express.js
-- **Game-Development** 👾
-  - Kaboom.js
+| **Category**           | **Technologies**                         |
+|------------------------|-----------------------------------------|
+| **Programming Languages** | Java ☕, JavaScript ⚡, Python 🐍 |
+| **Frontend Development** | HTML, CSS, React ⚛️ |
+| **Backend Development**  | Express.js 🚀 |
+| **Databases**          | MySQL 🐬, PostgreSQL 🐘, Prisma 🌱 |
+| **Game Development**   | Kaboom.js 💥, Phaser.js 🎮 |
+| **Testing & Automation** | Playwright 🎭, Jest ✅ |
+| **DevOps & Containers** | Docker 🐳 |
+| **Other Tools**        | Excel 📊 |
   
 *📍 planning on strengthening my languages and game-dev*
