@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📗 Specialising in Software Development
 - ⛏️ Minor in Data and AI analytics 
 - 🔭 Aspiring to become a great software developer
-- 📖 Currently learning how to use **Kaboom.js**
+- 📖 Currently learning how to use **Phaser.js**
 - 🔧 Currently working on a project for **IMCS**
 - 🐺 Looking to collaborate on creating a **game**
 - 📞 Contact me on Likendin: [**Min Thet Khine**](https://www.linkedin.com/in/min-thet-khine2005/)
